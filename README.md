@@ -62,4 +62,4 @@ Collaborate on awareness campaigns or visual content
 
  Support the Mission
 
-If this project adds value to you, kindly star ⭐ this repository to help others discover it!
+If this project adds value to you, kindly star this repository to help others discover it!
